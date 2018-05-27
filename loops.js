@@ -35,5 +35,7 @@ function whileLoop(num) {
 //The do-while loop is almost exactly the same as the while loop, except for the fact that the loop's body is executed at least once before the condition is tested.
 
 function doWhileLoop(arr) {
-  
+  function maybeTrue() {
+  return Math.random() >= 0.5
+}
 }
