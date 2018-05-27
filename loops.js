@@ -22,7 +22,7 @@ function forLoop(arr) {
 
 function whileLoop(num) {
   //while num is >= 0
-  while (num >= 0) {
+  while (num > 0) {
     //console.log value of num
     console.log(num);
     //decrement num by 1 with each pass of loop
