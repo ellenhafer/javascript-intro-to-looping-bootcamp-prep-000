@@ -34,6 +34,10 @@ function whileLoop(num) {
 
 //The do-while loop is almost exactly the same as the while loop, except for the fact that the loop's body is executed at least once before the condition is tested.
 
+function maybeTrue() {
+  return Math.random() >= 0.5
+}
+
 //define a function called doWhileLoop which takes array as argument
 
 //remove elements from array until array is empty or until maybeTrue() returns false
