@@ -42,8 +42,9 @@ function maybeTrue() {
 function doWhileLoop(arr) {
   //remove elements from array until array is empty or until maybeTrue() returns false
   do {
-    
-  } while ();
+    arr.pop();
+  } 
+  while ();
 }
 
 //remove elements from array until array is empty or until maybeTrue() returns false
