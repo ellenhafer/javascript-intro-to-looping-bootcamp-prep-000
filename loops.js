@@ -41,6 +41,6 @@ function doWhileLoop(arr) {
   do {
     console.log("hello")
   }
-  while (maybeTrue());
+  while (array.length > 0 && maybeTrue());
 }
 
