@@ -36,6 +36,10 @@ function whileLoop(num) {
 
 //define a function called doWhileLoop which takes array as argument
 
+//remove elements from array until array is empty or until maybeTrue() returns false
+
+//return array
+
 function doWhileLoop(arr) {
   function maybeTrue() {
   return Math.random() >= 0.5
