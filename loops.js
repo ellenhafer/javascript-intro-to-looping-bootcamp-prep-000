@@ -49,3 +49,5 @@ function doWhileLoop(arr) {
   //return the array
   return arr;
 }
+
+// Remember that 98% of the time you will want to use a for loop
