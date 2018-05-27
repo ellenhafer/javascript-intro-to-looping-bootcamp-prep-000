@@ -39,7 +39,7 @@ function doWhileLoop(arr) {
   return Math.random() >= 0.5
 }
   do {
-    console.log("hello")
+    arr.pop;
   }
   while (array.length > 0 && maybeTrue());
 }
