@@ -17,3 +17,5 @@ function forLoop(arr) {
   //return array
   return arr;
 }
+
+// A while loop is best used when we don't know how many times a loop needs to run - that is, the condition is dependent on a dynamic function/return value.
