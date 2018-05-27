@@ -39,6 +39,11 @@ function maybeTrue() {
 }
 
 //define a function called doWhileLoop which takes array as argument
+function doWhileLoop(arr) {
+  do {
+    
+  } while ();
+}
 
 //remove elements from array until array is empty or until maybeTrue() returns false
 
