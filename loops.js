@@ -21,7 +21,7 @@ function forLoop(arr) {
 // A while loop is best used when we don't know how many times a loop needs to run - that is, the condition is dependent on a dynamic function/return value.
 
 function whileLoop(num) {
-  //while num is >= 0
+  //while num is > 0
   while (num > 0) {
     //console.log value of num
     console.log(num);
