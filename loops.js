@@ -42,5 +42,7 @@ function doWhileLoop(arr) {
     arr.pop;
   }
   while (array.length > 0 && maybeTrue());
+  
+  return arr;
 }
 
